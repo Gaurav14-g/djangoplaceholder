@@ -22,6 +22,7 @@ class UserProfile(models.Model):
         ('English', 'English'),
         ('Spanish', 'Spanish'),
         ('French', 'French'),
+        ('Chinese', 'Chinese'),
         ('Other', 'Other'),
     ]
 
