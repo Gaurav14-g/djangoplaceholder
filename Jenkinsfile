@@ -2,11 +2,11 @@ pipeline {
     agent any
 
     stages {
-        stage('Checkout') {
-            steps {
-                git 'https://github.com/Gaurav14-g/djangoplaceholder.git'
-            }
-        }
+    //     stage('Checkout') {
+    //         steps {
+    //             git 'https://github.com/Gaurav14-g/djangoplaceholder.git'
+    //         }
+    //     }
 
         stage('Install Dependencies') {
             steps {
