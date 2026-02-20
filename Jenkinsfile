@@ -16,7 +16,7 @@ pipeline {
 
         stage('Run Tests') {
             steps {
-                bat 'python backend/manage.py test'
+                bat 'python manage.py test'
             }
         }
 
