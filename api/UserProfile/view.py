@@ -1,16 +1,17 @@
 from rest_framework import viewsets, filters
 from rest_framework.exceptions import ValidationError
+from rest_framework.permissions import AllowAny
 from django_filters.rest_framework import DjangoFilterBackend
 from api.UserProfile.model import UserProfile
 from api.UserProfile.serializer import UserProfileSerializer
-from api.permissions import AuthPermission
+from api.permissions import CustomPermission
 from django.contrib.auth.models import User
 
 
 class UserProfileViewSet(viewsets.ModelViewSet):
     queryset = UserProfile.objects.all()
     serializer_class = UserProfileSerializer
-    permission_classes = [AuthPermission]
+    permission_classes = [AllowAny]
     lookup_field = 'user'
 
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
@@ -53,12 +54,14 @@ class UserProfileViewSet(viewsets.ModelViewSet):
 
         user_id = self.request.query_params.get("user_id", None)
 
-        if self.request.user.is_superuser:
+        if self.request.user.is_authenticated and self.request.user.is_superuser:
             if user_id:
                 return UserProfile.objects.filter(user__id=user_id)
             return UserProfile.objects.all()
 
-        if user_id:
-            return UserProfile.objects.filter(user__id=user_id, user=self.request.user)
+        if self.request.user.is_authenticated:
+            if user_id:
+                return UserProfile.objects.filter(user__id=user_id, user=self.request.user)
+            return UserProfile.objects.filter(user=self.request.user)
 
-        return UserProfile.objects.filter(user=self.request.user)
+        return UserProfile.objects.none()

@@ -9,10 +9,10 @@ class UserSerializer(serializers.ModelSerializer):
         many=True,
         queryset=Group.objects.all()
     )
-    contact_no = serializers.IntegerField(required=False)
+    phone_no = serializers.CharField(required=False)
     class Meta:
         model = User
-        fields = ['id', 'username', 'password', 'email', 'first_name', 'last_name', 'groups', 'is_staff','is_active', 'contact_no']
+        fields = ['id', 'username', 'password', 'email', 'first_name', 'last_name', 'groups', 'is_staff','is_active', 'phone_no']
         #fields ='__all__'
         extra_kwargs = {
             'password': {'write_only': True}
@@ -22,17 +22,17 @@ class UserSerializer(serializers.ModelSerializer):
         # Get the original serialized data
         representation = super(UserSerializer, self).to_representation(instance)
 
-        # Retrieve the UserProfile's contact_no and add it to the representation
+        # Retrieve the UserProfile's phone_no and add it to the representation
         try:
-            representation['contact_no'] = instance.userprofile.contact_no
+            representation['phone_no'] = instance.userprofile.phone_no
         except UserProfile.DoesNotExist:
-            representation['contact_no'] = None
+            representation['phone_no'] = None
 
         return representation
 
     def create(self, validated_data):
         groups_data = validated_data.pop('groups', [])
-        contact_no = validated_data.pop('contact_no', None)
+        phone_no = validated_data.pop('phone_no', None)
 
         # Hash the password before saving the user
         if 'password' in validated_data:
@@ -46,14 +46,14 @@ class UserSerializer(serializers.ModelSerializer):
         self._update_user_permissions(user)
 
         # Create the UserProfile linked to the user
-        if contact_no is not None:
-            UserProfile.objects.create(user=user, contact_no=contact_no)
+        if phone_no is not None:
+            UserProfile.objects.create(user=user, phone_no=phone_no)
 
         return user
 
     def update(self, instance, validated_data):
         groups_data = validated_data.pop('groups', [])
-        contact_no = validated_data.pop('contact_no', None)
+        phone_no = validated_data.pop('phone_no', None)
 
         # Hash the password before saving the user
         if 'password' in validated_data:
@@ -67,8 +67,8 @@ class UserSerializer(serializers.ModelSerializer):
         self._update_user_permissions(instance)
 
         # Update or create UserProfile linked to the user
-        if contact_no is not None:
-            UserProfile.objects.update_or_create(user=instance, defaults={'contact_no': contact_no})
+        if phone_no is not None:
+            UserProfile.objects.update_or_create(user=instance, defaults={'phone_no': phone_no})
 
         return instance
 
