@@ -1,0 +1,8 @@
+[
+  { "id": 10101, "name": "Mumbai", "state_id": 101 },
+  { "id": 10102, "name": "Pune", "state_id": 101 },
+  { "id": 10201, "name": "Bengaluru", "state_id": 102 },
+  { "id": 10202, "name": "Mysore", "state_id": 102 },
+  { "id": 10301, "name": "New Delhi", "state_id": 103 },
+  { "id": 10401, "name": "Ahmedabad", "state_id": 104 }
+]

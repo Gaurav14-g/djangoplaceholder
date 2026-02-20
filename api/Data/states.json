@@ -1,0 +1,6 @@
+[
+  { "id": 101, "name": "Maharashtra", "country_id": 1 },
+  { "id": 102, "name": "Karnataka", "country_id": 1 },
+  { "id": 103, "name": "Delhi", "country_id": 1 },
+  { "id": 104, "name": "Gujarat", "country_id": 1 }
+]

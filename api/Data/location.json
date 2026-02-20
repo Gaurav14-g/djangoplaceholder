@@ -1,0 +1,1854 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "India",
+      "states": [
+        {
+          "page": 1,
+          "page_size": 18,
+          "total_pages": 2,
+          "total_items": 36,
+          "data": [
+            {
+              "id": 101,
+              "name": "Andhra Pradesh",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 10101,
+                    "name": "Visakhapatnam"
+                  },
+                  {
+                    "id": 10102,
+                    "name": "Vijayawada"
+                  },
+                  {
+                    "id": 10103,
+                    "name": "Guntur"
+                  },
+                  {
+                    "id": 10104,
+                    "name": "Nellore"
+                  },
+                  {
+                    "id": 10105,
+                    "name": "Kurnool"
+                  },
+                  {
+                    "id": 10106,
+                    "name": "Tirupati"
+                  },
+                  {
+                    "id": 10107,
+                    "name": "Kadapa"
+                  },
+                  {
+                    "id": 10108,
+                    "name": "Anantapur"
+                  },
+                  {
+                    "id": 10109,
+                    "name": "Ongole"
+                  },
+                  {
+                    "id": 10110,
+                    "name": "Eluru"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 102,
+              "name": "Arunachal Pradesh",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 10201,
+                    "name": "Itanagar"
+                  },
+                  {
+                    "id": 10202,
+                    "name": "Naharlagun"
+                  },
+                  {
+                    "id": 10203,
+                    "name": "Pasighat"
+                  },
+                  {
+                    "id": 10204,
+                    "name": "Ziro"
+                  },
+                  {
+                    "id": 10205,
+                    "name": "Tawang"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 103,
+              "name": "Assam",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 10301,
+                    "name": "Guwahati"
+                  },
+                  {
+                    "id": 10302,
+                    "name": "Silchar"
+                  },
+                  {
+                    "id": 10303,
+                    "name": "Dibrugarh"
+                  },
+                  {
+                    "id": 10304,
+                    "name": "Jorhat"
+                  },
+                  {
+                    "id": 10305,
+                    "name": "Nagaon"
+                  },
+                  {
+                    "id": 10306,
+                    "name": "Tezpur"
+                  },
+                  {
+                    "id": 10307,
+                    "name": "Goalpara"
+                  },
+                  {
+                    "id": 10308,
+                    "name": "Bongaigaon"
+                  },
+                  {
+                    "id": 10309,
+                    "name": "Tinsukia"
+                  },
+                  {
+                    "id": 10310,
+                    "name": "Karimganj"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 104,
+              "name": "Bihar",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 10401,
+                    "name": "Patna"
+                  },
+                  {
+                    "id": 10402,
+                    "name": "Gaya"
+                  },
+                  {
+                    "id": 10403,
+                    "name": "Bhagalpur"
+                  },
+                  {
+                    "id": 10404,
+                    "name": "Muzaffarpur"
+                  },
+                  {
+                    "id": 10405,
+                    "name": "Purnia"
+                  },
+                  {
+                    "id": 10406,
+                    "name": "Darbhanga"
+                  },
+                  {
+                    "id": 10407,
+                    "name": "Bettiah"
+                  },
+                  {
+                    "id": 10408,
+                    "name": "Madhubani"
+                  },
+                  {
+                    "id": 10409,
+                    "name": "Ara"
+                  },
+                  {
+                    "id": 10410,
+                    "name": "Begusarai"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 105,
+              "name": "Chhattisgarh",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 10501,
+                    "name": "Raipur"
+                  },
+                  {
+                    "id": 10502,
+                    "name": "Bhilai"
+                  },
+                  {
+                    "id": 10503,
+                    "name": "Korba"
+                  },
+                  {
+                    "id": 10504,
+                    "name": "Bilaspur"
+                  },
+                  {
+                    "id": 10505,
+                    "name": "Durg"
+                  },
+                  {
+                    "id": 10506,
+                    "name": "Jagdalpur"
+                  },
+                  {
+                    "id": 10507,
+                    "name": "Ambikapur"
+                  },
+                  {
+                    "id": 10508,
+                    "name": "Raigarh"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 106,
+              "name": "Goa",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 10601,
+                    "name": "Panaji"
+                  },
+                  {
+                    "id": 10602,
+                    "name": "Margao"
+                  },
+                  {
+                    "id": 10603,
+                    "name": "Vasco da Gama"
+                  },
+                  {
+                    "id": 10604,
+                    "name": "Mapusa"
+                  },
+                  {
+                    "id": 10605,
+                    "name": "Ponda"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 107,
+              "name": "Gujarat",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 10701,
+                    "name": "Ahmedabad"
+                  },
+                  {
+                    "id": 10702,
+                    "name": "Surat"
+                  },
+                  {
+                    "id": 10703,
+                    "name": "Vadodara"
+                  },
+                  {
+                    "id": 10704,
+                    "name": "Rajkot"
+                  },
+                  {
+                    "id": 10705,
+                    "name": "Bhavnagar"
+                  },
+                  {
+                    "id": 10706,
+                    "name": "Jamnagar"
+                  },
+                  {
+                    "id": 10707,
+                    "name": "Gandhinagar"
+                  },
+                  {
+                    "id": 10708,
+                    "name": "Porbandar"
+                  },
+                  {
+                    "id": 10709,
+                    "name": "Anand"
+                  },
+                  {
+                    "id": 10710,
+                    "name": "Bhuj"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 108,
+              "name": "Haryana",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 10801,
+                    "name": "Faridabad"
+                  },
+                  {
+                    "id": 10802,
+                    "name": "Gurgaon"
+                  },
+                  {
+                    "id": 10803,
+                    "name": "Panipat"
+                  },
+                  {
+                    "id": 10804,
+                    "name": "Ambala"
+                  },
+                  {
+                    "id": 10805,
+                    "name": "Yamunanagar"
+                  },
+                  {
+                    "id": 10806,
+                    "name": "Karnal"
+                  },
+                  {
+                    "id": 10807,
+                    "name": "Rohtak"
+                  },
+                  {
+                    "id": 10808,
+                    "name": "Hisar"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 109,
+              "name": "Himachal Pradesh",
+              "cities": {
+                "page": 1,
+                "page_size": 6,
+                "total_pages": 1,
+                "total_items": 6,
+                "data": [
+                  {
+                    "id": 10901,
+                    "name": "Shimla"
+                  },
+                  {
+                    "id": 10902,
+                    "name": "Dharamshala"
+                  },
+                  {
+                    "id": 10903,
+                    "name": "Solan"
+                  },
+                  {
+                    "id": 10904,
+                    "name": "Mandi"
+                  },
+                  {
+                    "id": 10905,
+                    "name": "Bilaspur"
+                  },
+                  {
+                    "id": 10906,
+                    "name": "Kangra"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 110,
+              "name": "Jharkhand",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 11001,
+                    "name": "Ranchi"
+                  },
+                  {
+                    "id": 11002,
+                    "name": "Jamshedpur"
+                  },
+                  {
+                    "id": 11003,
+                    "name": "Dhanbad"
+                  },
+                  {
+                    "id": 11004,
+                    "name": "Bokaro"
+                  },
+                  {
+                    "id": 11005,
+                    "name": "Deoghar"
+                  },
+                  {
+                    "id": 11006,
+                    "name": "Hazaribagh"
+                  },
+                  {
+                    "id": 11007,
+                    "name": "Giridih"
+                  },
+                  {
+                    "id": 11008,
+                    "name": "Ramgarh"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 111,
+              "name": "Karnataka",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 11101,
+                    "name": "Bengaluru"
+                  },
+                  {
+                    "id": 11102,
+                    "name": "Mysore"
+                  },
+                  {
+                    "id": 11103,
+                    "name": "Hubli"
+                  },
+                  {
+                    "id": 11104,
+                    "name": "Mangalore"
+                  },
+                  {
+                    "id": 11105,
+                    "name": "Belgaum"
+                  },
+                  {
+                    "id": 11106,
+                    "name": "Gulbarga"
+                  },
+                  {
+                    "id": 11107,
+                    "name": "Tumkur"
+                  },
+                  {
+                    "id": 11108,
+                    "name": "Davanagere"
+                  },
+                  {
+                    "id": 11109,
+                    "name": "Shivamogga"
+                  },
+                  {
+                    "id": 11110,
+                    "name": "Bellary"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 112,
+              "name": "Kerala",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 11201,
+                    "name": "Thiruvananthapuram"
+                  },
+                  {
+                    "id": 11202,
+                    "name": "Kochi"
+                  },
+                  {
+                    "id": 11203,
+                    "name": "Kozhikode"
+                  },
+                  {
+                    "id": 11204,
+                    "name": "Thrissur"
+                  },
+                  {
+                    "id": 11205,
+                    "name": "Kollam"
+                  },
+                  {
+                    "id": 11206,
+                    "name": "Palakkad"
+                  },
+                  {
+                    "id": 11207,
+                    "name": "Alappuzha"
+                  },
+                  {
+                    "id": 11208,
+                    "name": "Kannur"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 113,
+              "name": "Madhya Pradesh",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 11301,
+                    "name": "Bhopal"
+                  },
+                  {
+                    "id": 11302,
+                    "name": "Indore"
+                  },
+                  {
+                    "id": 11303,
+                    "name": "Gwalior"
+                  },
+                  {
+                    "id": 11304,
+                    "name": "Jabalpur"
+                  },
+                  {
+                    "id": 11305,
+                    "name": "Ujjain"
+                  },
+                  {
+                    "id": 11306,
+                    "name": "Sagar"
+                  },
+                  {
+                    "id": 11307,
+                    "name": "Ratlam"
+                  },
+                  {
+                    "id": 11308,
+                    "name": "Satna"
+                  },
+                  {
+                    "id": 11309,
+                    "name": "Rewa"
+                  },
+                  {
+                    "id": 11310,
+                    "name": "Dewas"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 114,
+              "name": "Maharashtra",
+              "cities": {
+                "page": 1,
+                "page_size": 12,
+                "total_pages": 1,
+                "total_items": 12,
+                "data": [
+                  {
+                    "id": 11401,
+                    "name": "Mumbai"
+                  },
+                  {
+                    "id": 11402,
+                    "name": "Pune"
+                  },
+                  {
+                    "id": 11403,
+                    "name": "Nagpur"
+                  },
+                  {
+                    "id": 11404,
+                    "name": "Thane"
+                  },
+                  {
+                    "id": 11405,
+                    "name": "Nashik"
+                  },
+                  {
+                    "id": 11406,
+                    "name": "Aurangabad"
+                  },
+                  {
+                    "id": 11407,
+                    "name": "Solapur"
+                  },
+                  {
+                    "id": 11408,
+                    "name": "Kolhapur"
+                  },
+                  {
+                    "id": 11409,
+                    "name": "Amravati"
+                  },
+                  {
+                    "id": 11410,
+                    "name": "Nanded"
+                  },
+                  {
+                    "id": 11411,
+                    "name": "Kalyan"
+                  },
+                  {
+                    "id": 11412,
+                    "name": "Akola"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 115,
+              "name": "Manipur",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 11501,
+                    "name": "Imphal"
+                  },
+                  {
+                    "id": 11502,
+                    "name": "Thoubal"
+                  },
+                  {
+                    "id": 11503,
+                    "name": "Bishnupur"
+                  },
+                  {
+                    "id": 11504,
+                    "name": "Churachandpur"
+                  },
+                  {
+                    "id": 11505,
+                    "name": "Senapati"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 116,
+              "name": "Meghalaya",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 11601,
+                    "name": "Shillong"
+                  },
+                  {
+                    "id": 11602,
+                    "name": "Tura"
+                  },
+                  {
+                    "id": 11603,
+                    "name": "Jowai"
+                  },
+                  {
+                    "id": 11604,
+                    "name": "Nongpoh"
+                  },
+                  {
+                    "id": 11605,
+                    "name": "Williamnagar"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 117,
+              "name": "Mizoram",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 11701,
+                    "name": "Aizawl"
+                  },
+                  {
+                    "id": 11702,
+                    "name": "Lunglei"
+                  },
+                  {
+                    "id": 11703,
+                    "name": "Saiha"
+                  },
+                  {
+                    "id": 11704,
+                    "name": "Champhai"
+                  },
+                  {
+                    "id": 11705,
+                    "name": "Kolasib"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "page_size": 18,
+          "total_pages": 2,
+          "total_items": 36,
+          "data": [
+            {
+              "id": 118,
+              "name": "Nagaland",
+              "cities": {
+                "page": 1,
+                "page_size": 6,
+                "total_pages": 1,
+                "total_items": 6,
+                "data": [
+                  {
+                    "id": 11801,
+                    "name": "Kohima"
+                  },
+                  {
+                    "id": 11802,
+                    "name": "Dimapur"
+                  },
+                  {
+                    "id": 11803,
+                    "name": "Mokokchung"
+                  },
+                  {
+                    "id": 11804,
+                    "name": "Tuensang"
+                  },
+                  {
+                    "id": 11805,
+                    "name": "Wokha"
+                  },
+                  {
+                    "id": 11806,
+                    "name": "Zunheboto"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 119,
+              "name": "Odisha",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 11901,
+                    "name": "Bhubaneswar"
+                  },
+                  {
+                    "id": 11902,
+                    "name": "Cuttack"
+                  },
+                  {
+                    "id": 11903,
+                    "name": "Rourkela"
+                  },
+                  {
+                    "id": 11904,
+                    "name": "Berhampur"
+                  },
+                  {
+                    "id": 11905,
+                    "name": "Sambalpur"
+                  },
+                  {
+                    "id": 11906,
+                    "name": "Puri"
+                  },
+                  {
+                    "id": 11907,
+                    "name": "Balasore"
+                  },
+                  {
+                    "id": 11908,
+                    "name": "Baripada"
+                  },
+                  {
+                    "id": 11909,
+                    "name": "Koraput"
+                  },
+                  {
+                    "id": 11910,
+                    "name": "Sundargarh"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 120,
+              "name": "Punjab",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 12001,
+                    "name": "Ludhiana"
+                  },
+                  {
+                    "id": 12002,
+                    "name": "Amritsar"
+                  },
+                  {
+                    "id": 12003,
+                    "name": "Jalandhar"
+                  },
+                  {
+                    "id": 12004,
+                    "name": "Patiala"
+                  },
+                  {
+                    "id": 12005,
+                    "name": "Bathinda"
+                  },
+                  {
+                    "id": 12006,
+                    "name": "Mohali"
+                  },
+                  {
+                    "id": 12007,
+                    "name": "Hoshiarpur"
+                  },
+                  {
+                    "id": 12008,
+                    "name": "Firozpur"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 121,
+              "name": "Rajasthan",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 12101,
+                    "name": "Jaipur"
+                  },
+                  {
+                    "id": 12102,
+                    "name": "Jodhpur"
+                  },
+                  {
+                    "id": 12103,
+                    "name": "Kota"
+                  },
+                  {
+                    "id": 12104,
+                    "name": "Bikaner"
+                  },
+                  {
+                    "id": 12105,
+                    "name": "Udaipur"
+                  },
+                  {
+                    "id": 12106,
+                    "name": "Ajmer"
+                  },
+                  {
+                    "id": 12107,
+                    "name": "Alwar"
+                  },
+                  {
+                    "id": 12108,
+                    "name": "Sikar"
+                  },
+                  {
+                    "id": 12109,
+                    "name": "Sawai Madhopur"
+                  },
+                  {
+                    "id": 12110,
+                    "name": "Bharatpur"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 122,
+              "name": "Sikkim",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 12201,
+                    "name": "Gangtok"
+                  },
+                  {
+                    "id": 12202,
+                    "name": "Namchi"
+                  },
+                  {
+                    "id": 12203,
+                    "name": "Gyalshing"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 123,
+              "name": "Tamil Nadu",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 12301,
+                    "name": "Chennai"
+                  },
+                  {
+                    "id": 12302,
+                    "name": "Coimbatore"
+                  },
+                  {
+                    "id": 12303,
+                    "name": "Madurai"
+                  },
+                  {
+                    "id": 12304,
+                    "name": "Tiruchirappalli"
+                  },
+                  {
+                    "id": 12305,
+                    "name": "Salem"
+                  },
+                  {
+                    "id": 12306,
+                    "name": "Tirunelveli"
+                  },
+                  {
+                    "id": 12307,
+                    "name": "Erode"
+                  },
+                  {
+                    "id": 12308,
+                    "name": "Vellore"
+                  },
+                  {
+                    "id": 12309,
+                    "name": "Thoothukudi"
+                  },
+                  {
+                    "id": 12310,
+                    "name": "Nagercoil"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 124,
+              "name": "Telangana",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 12401,
+                    "name": "Hyderabad"
+                  },
+                  {
+                    "id": 12402,
+                    "name": "Warangal"
+                  },
+                  {
+                    "id": 12403,
+                    "name": "Nizamabad"
+                  },
+                  {
+                    "id": 12404,
+                    "name": "Karimnagar"
+                  },
+                  {
+                    "id": 12405,
+                    "name": "Khammam"
+                  },
+                  {
+                    "id": 12406,
+                    "name": "Mahbubnagar"
+                  },
+                  {
+                    "id": 12407,
+                    "name": "Siddipet"
+                  },
+                  {
+                    "id": 12408,
+                    "name": "Bhongir"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 125,
+              "name": "Tripura",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 12501,
+                    "name": "Agartala"
+                  },
+                  {
+                    "id": 12502,
+                    "name": "Dharmanagar"
+                  },
+                  {
+                    "id": 12503,
+                    "name": "Udaipur"
+                  },
+                  {
+                    "id": 12504,
+                    "name": "Kailasahar"
+                  },
+                  {
+                    "id": 12505,
+                    "name": "Ambassa"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 126,
+              "name": "Uttar Pradesh",
+              "cities": {
+                "page": 1,
+                "page_size": 12,
+                "total_pages": 1,
+                "total_items": 12,
+                "data": [
+                  {
+                    "id": 12601,
+                    "name": "Lucknow"
+                  },
+                  {
+                    "id": 12602,
+                    "name": "Kanpur"
+                  },
+                  {
+                    "id": 12603,
+                    "name": "Ghaziabad"
+                  },
+                  {
+                    "id": 12604,
+                    "name": "Agra"
+                  },
+                  {
+                    "id": 12605,
+                    "name": "Meerut"
+                  },
+                  {
+                    "id": 12606,
+                    "name": "Varanasi"
+                  },
+                  {
+                    "id": 12607,
+                    "name": "Prayagraj"
+                  },
+                  {
+                    "id": 12608,
+                    "name": "Bareilly"
+                  },
+                  {
+                    "id": 12609,
+                    "name": "Aligarh"
+                  },
+                  {
+                    "id": 12610,
+                    "name": "Moradabad"
+                  },
+                  {
+                    "id": 12611,
+                    "name": "Saharanpur"
+                  },
+                  {
+                    "id": 12612,
+                    "name": "Gorakhpur"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 127,
+              "name": "Uttarakhand",
+              "cities": {
+                "page": 1,
+                "page_size": 6,
+                "total_pages": 1,
+                "total_items": 6,
+                "data": [
+                  {
+                    "id": 12701,
+                    "name": "Dehradun"
+                  },
+                  {
+                    "id": 12702,
+                    "name": "Haridwar"
+                  },
+                  {
+                    "id": 12703,
+                    "name": "Roorkee"
+                  },
+                  {
+                    "id": 12704,
+                    "name": "Haldwani"
+                  },
+                  {
+                    "id": 12705,
+                    "name": "Pantnagar"
+                  },
+                  {
+                    "id": 12706,
+                    "name": "Rishikesh"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 128,
+              "name": "West Bengal",
+              "cities": {
+                "page": 1,
+                "page_size": 10,
+                "total_pages": 1,
+                "total_items": 10,
+                "data": [
+                  {
+                    "id": 12801,
+                    "name": "Kolkata"
+                  },
+                  {
+                    "id": 12802,
+                    "name": "Howrah"
+                  },
+                  {
+                    "id": 12803,
+                    "name": "Durgapur"
+                  },
+                  {
+                    "id": 12804,
+                    "name": "Asansol"
+                  },
+                  {
+                    "id": 12805,
+                    "name": "Siliguri"
+                  },
+                  {
+                    "id": 12806,
+                    "name": "Malda"
+                  },
+                  {
+                    "id": 12807,
+                    "name": "Kharagpur"
+                  },
+                  {
+                    "id": 12808,
+                    "name": "Bardhaman"
+                  },
+                  {
+                    "id": 12809,
+                    "name": "Berhampore"
+                  },
+                  {
+                    "id": 12810,
+                    "name": "Raiganj"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 129,
+              "name": "Delhi (NCT)",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 12901,
+                    "name": "New Delhi"
+                  },
+                  {
+                    "id": 12902,
+                    "name": "Old Delhi"
+                  },
+                  {
+                    "id": 12903,
+                    "name": "Delhi Cantonment"
+                  },
+                  {
+                    "id": 12904,
+                    "name": "Rohini"
+                  },
+                  {
+                    "id": 12905,
+                    "name": "Dwarka"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 130,
+              "name": "Andaman and Nicobar Islands",
+              "cities": {
+                "page": 1,
+                "page_size": 4,
+                "total_pages": 1,
+                "total_items": 4,
+                "data": [
+                  {
+                    "id": 13001,
+                    "name": "Port Blair"
+                  },
+                  {
+                    "id": 13002,
+                    "name": "Diglipur"
+                  },
+                  {
+                    "id": 13003,
+                    "name": "Mayabunder"
+                  },
+                  {
+                    "id": 13004,
+                    "name": "Nancowry"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 131,
+              "name": "Chandigarh",
+              "cities": {
+                "page": 1,
+                "page_size": 1,
+                "total_pages": 1,
+                "total_items": 1,
+                "data": [
+                  {
+                    "id": 13101,
+                    "name": "Chandigarh"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 132,
+              "name": "Dadra and Nagar Haveli and Daman and Diu",
+              "cities": {
+                "page": 1,
+                "page_size": 5,
+                "total_pages": 1,
+                "total_items": 5,
+                "data": [
+                  {
+                    "id": 13201,
+                    "name": "Daman"
+                  },
+                  {
+                    "id": 13202,
+                    "name": "Diu"
+                  },
+                  {
+                    "id": 13203,
+                    "name": "Silvassa"
+                  },
+                  {
+                    "id": 13204,
+                    "name": "Karanja"
+                  },
+                  {
+                    "id": 13205,
+                    "name": "Vapi"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 133,
+              "name": "Jammu and Kashmir",
+              "cities": {
+                "page": 1,
+                "page_size": 8,
+                "total_pages": 1,
+                "total_items": 8,
+                "data": [
+                  {
+                    "id": 13301,
+                    "name": "Srinagar"
+                  },
+                  {
+                    "id": 13302,
+                    "name": "Jammu"
+                  },
+                  {
+                    "id": 13303,
+                    "name": "Anantnag"
+                  },
+                  {
+                    "id": 13304,
+                    "name": "Baramulla"
+                  },
+                  {
+                    "id": 13305,
+                    "name": "Pulwama"
+                  },
+                  {
+                    "id": 13306,
+                    "name": "Kathua"
+                  },
+                  {
+                    "id": 13307,
+                    "name": "Udhampur"
+                  },
+                  {
+                    "id": 13308,
+                    "name": "Kulgam"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 134,
+              "name": "Ladakh",
+              "cities": {
+                "page": 1,
+                "page_size": 4,
+                "total_pages": 1,
+                "total_items": 4,
+                "data": [
+                  {
+                    "id": 13401,
+                    "name": "Leh"
+                  },
+                  {
+                    "id": 13402,
+                    "name": "Kargil"
+                  },
+                  {
+                    "id": 13403,
+                    "name": "Nubra"
+                  },
+                  {
+                    "id": 13404,
+                    "name": "Drass"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 135,
+              "name": "Lakshadweep",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 13501,
+                    "name": "Kavaratti"
+                  },
+                  {
+                    "id": 13502,
+                    "name": "Agatti"
+                  },
+                  {
+                    "id": 13503,
+                    "name": "Kadmat"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 136,
+              "name": "Puducherry",
+              "cities": {
+                "page": 1,
+                "page_size": 6,
+                "total_pages": 1,
+                "total_items": 6,
+                "data": [
+                  {
+                    "id": 13601,
+                    "name": "Puducherry"
+                  },
+                  {
+                    "id": 13602,
+                    "name": "Karaikal"
+                  },
+                  {
+                    "id": 13603,
+                    "name": "Mahe"
+                  },
+                  {
+                    "id": 13604,
+                    "name": "Yanam"
+                  },
+                  {
+                    "id": 13605,
+                    "name": "Villianur"
+                  },
+                  {
+                    "id": 13606,
+                    "name": "Ozhukarai"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Canada",
+      "states": [
+        {
+          "page": 1,
+          "page_size": 3,
+          "total_pages": 2,
+          "total_items": 6,
+          "data": [
+            {
+              "id": 201,
+              "name": "Ontario",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 2,
+                "total_items": 6,
+                "data": [
+                  {
+                    "id": 20101,
+                    "name": "Toronto"
+                  },
+                  {
+                    "id": 20102,
+                    "name": "Ottawa"
+                  },
+                  {
+                    "id": 20103,
+                    "name": "Mississauga"
+                  },
+                  {
+                    "id": 20104,
+                    "name": "BRAMPTON"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 202,
+              "name": "British Columbia",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 2,
+                "total_items": 4,
+                "data": [
+                  {
+                    "id": 20201,
+                    "name": "Vancouver"
+                  },
+                  {
+                    "id": 20202,
+                    "name": "Victoria"
+                  },
+                  {
+                    "id": 20203,
+                    "name": "Surrey"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 203,
+              "name": "Quebec",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 2,
+                "total_items": 4,
+                "data": [
+                  {
+                    "id": 20301,
+                    "name": "Montreal"
+                  },
+                  {
+                    "id": 20302,
+                    "name": "Quebec City"
+                  },
+                  {
+                    "id": 20303,
+                    "name": "Laval"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "page": 2,
+          "page_size": 3,
+          "total_pages": 2,
+          "total_items": 6,
+          "data": [
+            {
+              "id": 204,
+              "name": "Alberta",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 20401,
+                    "name": "Calgary"
+                  },
+                  {
+                    "id": 20402,
+                    "name": "Edmonton"
+                  },
+                  {
+                    "id": 20403,
+                    "name": "Red Deer"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 205,
+              "name": "Manitoba",
+              "cities": {
+                "page": 1,
+                "page_size": 2,
+                "total_pages": 1,
+                "total_items": 2,
+                "data": [
+                  {
+                    "id": 20501,
+                    "name": "Winnipeg"
+                  },
+                  {
+                    "id": 20502,
+                    "name": "Brandon"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 206,
+              "name": "Nova Scotia",
+              "cities": {
+                "page": 1,
+                "page_size": 2,
+                "total_pages": 1,
+                "total_items": 2,
+                "data": [
+                  {
+                    "id": 20601,
+                    "name": "Halifax"
+                  },
+                  {
+                    "id": 20602,
+                    "name": "Sydney"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Australia",
+      "states": [
+        {
+          "page": 1,
+          "page_size": 8,
+          "total_pages": 1,
+          "total_items": 8,
+          "data": [
+            {
+              "id": 401,
+              "name": "New South Wales",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40101,
+                    "name": "Sydney"
+                  },
+                  {
+                    "id": 40102,
+                    "name": "Newcastle"
+                  },
+                  {
+                    "id": 40103,
+                    "name": "Wollongong"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 402,
+              "name": "Victoria",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40201,
+                    "name": "Melbourne"
+                  },
+                  {
+                    "id": 40202,
+                    "name": "Geelong"
+                  },
+                  {
+                    "id": 40203,
+                    "name": "Ballarat"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 403,
+              "name": "Queensland",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40301,
+                    "name": "Brisbane"
+                  },
+                  {
+                    "id": 40302,
+                    "name": "Gold Coast"
+                  },
+                  {
+                    "id": 40303,
+                    "name": "Cairns"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 404,
+              "name": "Western Australia",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40401,
+                    "name": "Perth"
+                  },
+                  {
+                    "id": 40402,
+                    "name": "Fremantle"
+                  },
+                  {
+                    "id": 40403,
+                    "name": "Bunbury"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 405,
+              "name": "South Australia",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40501,
+                    "name": "Adelaide"
+                  },
+                  {
+                    "id": 40502,
+                    "name": "Mount Gambier"
+                  },
+                  {
+                    "id": 40503,
+                    "name": "Whyalla"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 406,
+              "name": "Tasmania",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40601,
+                    "name": "Hobart"
+                  },
+                  {
+                    "id": 40602,
+                    "name": "Launceston"
+                  },
+                  {
+                    "id": 40603,
+                    "name": "Devonport"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 407,
+              "name": "Australian Capital Territory",
+              "cities": {
+                "page": 1,
+                "page_size": 1,
+                "total_pages": 1,
+                "total_items": 1,
+                "data": [
+                  {
+                    "id": 40701,
+                    "name": "Canberra"
+                  }
+                ]
+              }
+            },
+            {
+              "id": 408,
+              "name": "Northern Territory",
+              "cities": {
+                "page": 1,
+                "page_size": 3,
+                "total_pages": 1,
+                "total_items": 3,
+                "data": [
+                  {
+                    "id": 40801,
+                    "name": "Darwin"
+                  },
+                  {
+                    "id": 40802,
+                    "name": "Alice Springs"
+                  },
+                  {
+                    "id": 40803,
+                    "name": "Katherine"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
